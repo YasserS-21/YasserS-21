@@ -23,6 +23,7 @@ class SoftwareEngineer {
 
 
 ```
+
 <pre>
              ________________________________________________
             /                                                \
@@ -53,6 +54,9 @@ class SoftwareEngineer {
 :-------------------------------------------------------------------------:
 `---._.-------------------------------------------------------------._.---'
 </pre>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassers-21&theme=dracula) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassers-21&show_icons=true&theme=dracula)
 <!---
 YasserS-21/YasserS-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
